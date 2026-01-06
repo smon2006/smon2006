@@ -21,7 +21,7 @@
     <a href="https://www.codechef.com/users/smon2006">
       <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
     </a>
-    <a href="https://drive.google.com/file/d/1c4oFYehHGFNNr7_PLmSht6LxIss1ndrN/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1XaNs4r9navYM1P9I_dlSxo0htpX-bT7i/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
     </a>
   </p>
