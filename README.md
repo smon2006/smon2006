@@ -35,8 +35,8 @@
   
 | Institution | Degree | Performance | Duration |
 |-------------|--------|-------------|----------|
-| <img src="https://img.shields.io/badge/JGEC-0056D2?style=for-the-badge&logo=university&logoColor=white" width="100"> | **B.Tech - Computer Science & Engineering** | **SGPA: 8.76/10** | 2024-2028 |
-| <img src="https://img.shields.io/badge/IIT_Madras-D14836?style=for-the-badge&logo=university&logoColor=white" width="150"> | **B.S. - Data Science & Applications** | **SGPA: 9.5/10** | 2025-Present |
+| <a href="https://jgec.ac.in/"><img src="https://img.shields.io/badge/JGEC-0056D2?style=for-the-badge&logo=university&logoColor=white" width="100"></a> | **B.Tech - Computer Science & Engineering** | **SGPA: 8.76/10** | 2024-2028 |
+| <a href="https://study.iitm.ac.in/ds/"><img src="https://img.shields.io/badge/IIT_Madras-D14836?style=for-the-badge&logo=university&logoColor=white" width="150"></a> | **B.S. - Data Science & Applications** | **SGPA: 9.5/10** | 2025-Present |
 
 </div>
 
