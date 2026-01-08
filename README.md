@@ -1,29 +1,13 @@
 <!-- Banner Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3D2B1F&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Shrestha+Mondal" alt="Typing Animation" />
-  
-  <p align="center">
-    <a href="mailto:shresthaxaviers@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/shrestha-mondal-cse/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/smon2006">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://leetcode.com/u/smon2006/">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-    </a>
-    <a href="https://codeforces.com/profile/sm2006">
-      <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
-    </a>
-    <a href="https://www.codechef.com/users/smon2006">
-      <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
-    </a>
-    <a href="https://drive.google.com/file/d/1XaNs4r9navYM1P9I_dlSxo0htpX-bT7i/view?usp=sharing">
-      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
-    </a>
+<h1 align="center">Hi 👋, I'm Shrestha Mondal</h1>
+
+---
+
+## 👨‍💻 About Me
+
+<div align="center" style="color: inherit; background-color: transparent;">
+  <p align="center" style="color: inherit; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+    I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri Government Engineering College, concurrently pursuing a BS in Data Science from IIT Madras. I am passionate about building strong foundations in software development, data systems, and AI/ML, I thrive on problem-solving and continuous learning. My analytical mindset has been recognized through achievements such as ranking in the Bebras Computing Challenge and securing 1st place in the Tensor Arena ML Hackathon. Beyond academics, I serve as a Student Placement Coordinator (SPOC), developing leadership and communication skills while connecting students with industry opportunities.
   </p>
 </div>
 
@@ -86,7 +70,6 @@
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
@@ -109,9 +92,19 @@
 
 ---
 
+## 💻 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile |
+|----------|---------|
+| **LeetCode** | <a href="https://leetcode.com/u/smon2006/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> |
+| **Codeforces** | <a href="https://codeforces.com/profile/sm2006"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a> |
+| **CodeChef** | <a href="https://www.codechef.com/users/smon2006"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a> |
+
+</div>
 
 ---
-
 
 ## 📬 Connect With Me
 
@@ -119,28 +112,17 @@
   
   <p>
     <a href="mailto:shresthaxaviers@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-shresthaxaviers@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/shrestha-mondal-cse/">
-      <img src="https://img.shields.io/badge/LinkedIn-Shrestha_Mondal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/smon2006">
-      <img src="https://img.shields.io/badge/GitHub-smon2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-  </p>
-  
-  <p>
-    <a href="https://leetcode.com/u/smon2006/">
-      <img src="https://img.shields.io/badge/LeetCode-smon2006-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-    </a>
-    <a href="https://codeforces.com/profile/sm2006">
-      <img src="https://img.shields.io/badge/Codeforces-sm2006-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
-    </a>
-    <a href="https://www.codechef.com/users/smon2006">
-      <img src="https://img.shields.io/badge/CodeChef-smon2006-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+    <a href="https://drive.google.com/file/d/1XaNs4r9navYM1P9I_dlSxo0htpX-bT7i/view?usp=sharing">
+      <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
     </a>
   </p>
   
 </div>
-
----
