@@ -45,6 +45,7 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
     <td align="center"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></td>
   </tr>
 </table>
 
@@ -65,8 +66,18 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 <table align="center">
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" /></td>
     <td align="center"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></td>
     <td align="center"><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.IO" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/stripe-%23626CD9.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" /></td>
   </tr>
 </table>
 
@@ -75,6 +86,7 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></td>
     <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></td>
   </tr>
 </table>
 
@@ -85,6 +97,18 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
     <td align="center"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" /></td>
   </tr>
 </table>
+
+---
+
+## 🚀 Featured Project
+
+**Full-Stack E-Commerce Platform (MERN Stack)**
+A complete e-commerce application with a customer-facing storefront, an admin analytics dashboard, and a REST API backend — featuring JWT authentication, real-time chat via Socket.IO, Stripe payment integration, and Cloudinary-based media management.
+
+- **Frontend:** React, Redux Toolkit, Tailwind CSS, Axios, Socket.IO Client
+- **Admin Dashboard:** React, ApexCharts, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB (Mongoose), JWT, bcrypt, Stripe API, Cloudinary
+- **Deployment:** Vercel
 
 ---
 
