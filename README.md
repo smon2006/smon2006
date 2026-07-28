@@ -5,11 +5,7 @@
 
 ## 👨‍💻 About Me
 
-<div align="justify" style="color: inherit; background-color: transparent;">
-  <p align="justify" style="color: inherit; line-height: 1.6; max-width: 800px; margin: 0 auto;">
-    I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri Government Engineering College, concurrently pursuing a BS in Data Science from IIT Madras. I am passionate about building strong foundations in software development, data systems, and AI/ML, I thrive on problem-solving and continuous learning. My analytical mindset has been recognized through achievements such as ranking in the Bebras Computing Challenge and securing 1st place in the Tensor Arena ML Hackathon. Beyond academics, I serve as a Student Placement Coordinator (SPOC), developing leadership and communication skills while connecting students with industry opportunities.
-  </p>
-</div>
+I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri Government Engineering College, concurrently pursuing a BS in Data Science from IIT Madras. I am passionate about building strong foundations in software development, data systems, and AI/ML, I thrive on problem-solving and continuous learning. My analytical mindset has been recognized through achievements such as ranking in the Bebras Computing Challenge and securing 1st place in the Tensor Arena ML Hackathon. Beyond academics, I serve as a Student Placement Coordinator (SPOC), developing leadership and communication skills while connecting students with industry opportunities.
 
 ---
 
