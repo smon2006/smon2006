@@ -102,7 +102,7 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 
 ## 🚀 Featured Project
 
-**Full-Stack E-Commerce Platform (MERN Stack)**
+**DigiMart — Full-Stack E-Commerce Platform (MERN Stack)**
 A complete e-commerce application with a customer-facing storefront, an admin analytics dashboard, and a REST API backend — featuring JWT authentication, real-time chat via Socket.IO, Stripe payment integration, and Cloudinary-based media management.
 
 - **Frontend:** React, Redux Toolkit, Tailwind CSS, Axios, Socket.IO Client
