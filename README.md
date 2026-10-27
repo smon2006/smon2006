@@ -11,12 +11,12 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 
 ## 📚 Education
 
-<div align="center">
+<div>
 
 | Institution | Degree | Performance | Duration |
 |-------------|--------|-------------|----------|
-| <a href="https://jgec.ac.in/"><img src="https://img.shields.io/badge/JGEC-0056D2?style=for-the-badge&logo=university&logoColor=white" width="100"></a> | **B.Tech - Computer Science & Engineering** | **SGPA: 9.71/10** | 2024-2028 |
-| <a href="https://study.iitm.ac.in/ds/"><img src="https://img.shields.io/badge/IIT_Madras-D14836?style=for-the-badge&logo=university&logoColor=white" width="150"></a> | **B.S. - Data Science & Applications** | **SGPA: 9.00/10** | 2025-Present |
+| <a href="https://jgec.ac.in/"><img src="https://img.shields.io/badge/JGEC-0056D2?style=for-the-badge&logo=university&logoColor=white" width="150" height="60"></a> | **B.Tech - Computer Science & Engineering** | **SGPA: 9.71/10** | 2024-2028 |
+| <a href="https://study.iitm.ac.in/ds/"><img src="https://img.shields.io/badge/IIT_Madras-D14836?style=for-the-badge&logo=university&logoColor=white" width="150" height="60"></a> | **B.S. - Data Science & Applications** | **SGPA: 9.00/10** | 2025-Present |
 
 </div>
 
@@ -25,18 +25,18 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 ## ⚡ Technical Skills
 
 ### Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
 ### Development Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -46,7 +46,7 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 </p>
 
 ### Data Science & ML
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
@@ -57,7 +57,7 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 </p>
 
 ### Web Development
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -73,7 +73,7 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 </p>
 
 ### Databases
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -81,11 +81,10 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 </p>
 
 ### Other Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
 </p>
----
 
 ## 🚀 Featured Project
 
@@ -101,27 +100,15 @@ A complete e-commerce application with a customer-facing storefront, an admin an
 
 ## 💻 Coding Profiles
 
-<div align="center">
-
-| Platform | Profile |
-|----------|---------|
-| **LeetCode** | <a href="https://leetcode.com/u/smon2006/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> |
-| **Codeforces** | <a href="https://codeforces.com/profile/sm2006"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a> |
-| **CodeChef** | <a href="https://www.codechef.com/users/smon2006"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a> |
+<div>
+<a href="https://leetcode.com/u/smon2006/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="150" height="30"></a>
+<a href="https://codeforces.com/profile/sm2006"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" width="150" height="30"></a>
+<a href="https://www.codechef.com/users/smon2006"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" width="150" height="30"></a>
 
 </div>
 
 ---
 
 ## 📬 Connect With Me
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:shresthaxaviers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/shrestha-mondal-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    </td>
-  </tr>
-</table>
+<a href="mailto:shresthaxaviers@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/shrestha-mondal-cse/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
