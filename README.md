@@ -87,7 +87,14 @@ I am Shrestha Mondal, a Computer Science and Engineering student at Jalpaiguri G
 </p>
 
 ## 🚀 Featured Project
+**MarshAI — AI-Powered Domain & Idea Validation Platform (Next.js SaaS)**
 
+A complete SaaS application that helps founders and domain investors validate a business idea before building it. It combines real Google Trends demand data with AI analysis to produce a structured market research report, featuring NextAuth JWT authentication, background report generation, a Free/Pro subscription model with bank-transfer upgrades, and PDF export of saved reports.
+
+- **Frontend:** React 19, Next.js, TypeScript, Tailwind CSS, Recharts, lucide-react, jsPDF + jspdf-autotable
+- **Backend:** Next.js 16 route handlers, TypeScript, Prisma 6 ORM, MySQL (TiDB Cloud), NextAuth v5 with bcryptjs, Groq AI (via the OpenAI-compatible SDK), google-trends-api
+- **Deployment:** Vercel
+---
 **DigiMart — Full-Stack E-Commerce Platform (MERN Stack)**
 A complete e-commerce application with a customer-facing storefront, an admin analytics dashboard, and a REST API backend — featuring JWT authentication, real-time chat via Socket.IO, Stripe payment integration, and Cloudinary-based media management.
 
